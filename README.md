@@ -6,3 +6,7 @@
 * 任务删除
 * 任务分类
 * 任务完成
+
+
+# 参考文档
+- https://blog.pecar.me/uv-with-django
