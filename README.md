@@ -10,3 +10,5 @@
 
 # 参考文档
 - https://blog.pecar.me/uv-with-django
+- https://developer.mozilla.org/zh-CN/docs/Learn_web_development/Extensions/Server-side/Django/Introduction
+- https://github.com/pythonzhichan/django-beginners-guide?tab=readme-ov-file
